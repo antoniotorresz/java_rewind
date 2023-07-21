@@ -1,1 +1,1 @@
-Dog{hg_name='null', actions=null, id=1, name='', attributes=[hola, amigo, te, amo]}
+Dog{hg_name='null', actions=null, id=1, name='', attributes=[roco, black, puppy]}
